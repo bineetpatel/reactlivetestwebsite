@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactlivetestwebsite/static/css/main.3f22b8cc.chunk.css",
+    "main.js": "/reactlivetestwebsite/static/js/main.53d5a0bc.chunk.js",
+    "main.js.map": "/reactlivetestwebsite/static/js/main.53d5a0bc.chunk.js.map",
+    "runtime-main.js": "/reactlivetestwebsite/static/js/runtime-main.56e64a0e.js",
+    "runtime-main.js.map": "/reactlivetestwebsite/static/js/runtime-main.56e64a0e.js.map",
+    "static/js/2.be51b0be.chunk.js": "/reactlivetestwebsite/static/js/2.be51b0be.chunk.js",
+    "static/js/2.be51b0be.chunk.js.map": "/reactlivetestwebsite/static/js/2.be51b0be.chunk.js.map",
+    "index.html": "/reactlivetestwebsite/index.html",
+    "precache-manifest.cd7371b91a0ffc4b80641fb7ab3515dc.js": "/reactlivetestwebsite/precache-manifest.cd7371b91a0ffc4b80641fb7ab3515dc.js",
+    "service-worker.js": "/reactlivetestwebsite/service-worker.js",
+    "static/css/main.3f22b8cc.chunk.css.map": "/reactlivetestwebsite/static/css/main.3f22b8cc.chunk.css.map",
+    "static/js/2.be51b0be.chunk.js.LICENSE.txt": "/reactlivetestwebsite/static/js/2.be51b0be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56e64a0e.js",
+    "static/js/2.be51b0be.chunk.js",
+    "static/css/main.3f22b8cc.chunk.css",
+    "static/js/main.53d5a0bc.chunk.js"
+  ]
+}
