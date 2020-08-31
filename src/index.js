@@ -1,15 +1,23 @@
-import React, { Fragment } from 'react';
+
+import React from 'react';
 import ReactDom from 'react-dom';
 import './index.css';
-import {App,Apptwo} from './App';
+import {App,Apptwo,Appthree,Appfour,Appfive} from './App';
+
 
 
 
 
 ReactDom.render(
+
 <React.Fragment>
+
 <App />
 <Apptwo />
+<Appthree />
+<Appfour/>
+<Appfive/>
 </React.Fragment>
 ,document.getElementById("root")
 );
+ 
